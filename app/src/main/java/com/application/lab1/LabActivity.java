@@ -9,6 +9,7 @@ public class LabActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         //hello world
+        //new update
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
